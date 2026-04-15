@@ -1,0 +1,10 @@
+{
+    "compilerOptions": {
+        "target": "esnext",
+        "module": "nodenext",
+        "moduleResolution": "node16",
+        "types": ["node"],
+        "esModuleInterop": true,
+        "resolveJsonModule": true
+    }
+}

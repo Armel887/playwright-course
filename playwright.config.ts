@@ -27,7 +27,7 @@ export default defineConfig({
   use: {
     //baseURL: process.env.BASE_URL,
     headless:false,
-    locale: 'es-ES',
+    //locale: 'es-ES',
     /* Base URL to use in actions like `await page.goto('')`. */
     // baseURL: 'http://localhost:3000',
 
